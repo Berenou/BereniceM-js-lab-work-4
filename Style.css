@@ -1,0 +1,21 @@
+body .wrapper{
+    width: 70%;
+    background-color: rgba(166, 236, 247, 0.815);
+    margin: auto;
+}
+
+body section {
+    width : 65%;
+    background-color: rgba(166, 247, 234, 0.815);
+    border-style: dashed;
+    margin : 20px auto;
+}
+
+body .wrapper, body section{
+    padding: 5px;
+    box-sizing: content-box;
+}
+
+body div.go{
+    text-align:center;
+}
